@@ -19,6 +19,7 @@ and it takes a little time.
 
 ### Keybindings
 
+* ?: describe character
 * C-f: forward
 * C-b: backward
 * C-n: next line
